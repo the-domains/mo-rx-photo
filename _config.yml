@@ -1,0 +1,29 @@
+name: "Mo'Rx Photo"
+favicon: null
+layout_spectrum: 0.20309544424526393
+typography_spectrum: 0.24175819661468267
+title: "Mo'Rx Photo"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4629307365976274
+  lightness: 0.025449862238019705
+  saturation: 0.9284417373128235
+  rhythmicContrast: 0.32321442826651037
+purpose: []
