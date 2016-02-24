@@ -1,7 +1,7 @@
 name: "Mo'Rx Photo"
 favicon: null
-layout_spectrum: 0.20309544424526393
-typography_spectrum: 0.24175819661468267
+layout_spectrum: 0.53738
+typography_spectrum: 0.63271
 title: "Mo'Rx Photo"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.4629307365976274
-  lightness: 0.025449862238019705
-  saturation: 0.9284417373128235
-  rhythmicContrast: 0.32321442826651037
+  brandStrength: 0.875
+  lightness: 0.0625
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
